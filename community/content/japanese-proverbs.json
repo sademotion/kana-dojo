@@ -316,5 +316,22 @@
   "romaji": "Mago ni mo ishou",
   "english": "Even a packhorse driver looks good in fine clothes",
   "meaning": "Clothes make the person"
-}
+}, {
+    "japanese": "花より団子",
+    "romaji": "Hana yori dango",
+    "english": "Dumplings over flowers",
+    "meaning": "Practicality over aesthetics; choosing substance over appearance"
+  },
+  {
+    "japanese": "時は金なり",
+    "romaji": "Toki wa kane nari",
+    "english": "Time is money",
+    "meaning": "Time is valuable and should not be wasted"
+  },
+  {
+    "japanese": "急がば回れ",
+    "romaji": "Isogaba maware",
+    "english": "If you're in a hurry, take a detour",
+    "meaning": "The safest or most reliable way is often not the quickest"
+  }
 ]
