@@ -418,5 +418,11 @@
     "backgroundColor": "oklch(15.0% 0.048 25.0 / 1)",
     "mainColor": "oklch(65.0% 0.225 30.0 / 1)",
     "secondaryColor": "oklch(90.0% 0.055 95.0 / 1)"
+  },
+  {
+    "id": "tsukiji-morning",
+    "backgroundColor": "oklch(22.0% 0.020 235.0 / 1)",
+    "mainColor": "oklch(78.0% 0.135 215.0 / 1)",
+    "secondaryColor": "oklch(85.0% 0.155 90.0 / 1)"
   }
 ]
