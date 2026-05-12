@@ -215,7 +215,7 @@
     "english": "undefined",
     "game": "Portal",
     "character": "GLaDOS"
-   },
+  },
   {
     "japanese": "この戦い、負けられない！",
     "romaji": "Kono tatakai, makerarenai!",
@@ -223,11 +223,18 @@
     "game": "Fire Emblem series",
     "character": "Various protagonists"
   },
-   {
-  "japanese": "希望は前に進むんだ！",
-  "romaji": "Kibou wa mae ni susumun da!",
-  "english": "Hope moves forward!",
-  "game": "Danganronpa series",
-  "character": "Makoto Naegi"
-}
+  {
+    "japanese": "希望は前に進むんだ！",
+    "romaji": "Kibou wa mae ni susumun da!",
+    "english": "Hope moves forward!",
+    "game": "Danganronpa series",
+    "character": "Makoto Naegi"
+  },
+  {
+    "japanese": "それもまた一興",
+    "romaji": "Sore mo mata ikkyo",
+    "english": "That too has its charm.",
+    "game": "Onimusha series",
+    "character": "Nobunaga Oda"
+  }
 ]
