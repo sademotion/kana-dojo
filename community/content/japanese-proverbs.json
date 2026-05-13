@@ -402,5 +402,48 @@
   "romaji": "Naki tsura ni hachi",
   "english": "A bee on a crying face",
   "meaning": "Misfortune piles up"
+},
+{
+  "japanese": "二度あることは三度ある",
+  "romaji": "Nido aru koto wa sando aru",
+  "english": "What happens twice will happen a third time",
+  "meaning": "Patterns tend to repeat"
 }
+,
+{
+  "japanese": "失敗は成功のもと",
+  "romaji": "Shippai wa seikou no moto",
+  "english": "Failure is the origin of success",
+  "meaning": "Mistakes lead to growth"
+},
+  {
+    "japanese": "可愛い子には旅をさせよ",
+    "romaji": "Kawaii ko ni wa tabi wo saseyo",
+    "english": "Send the beloved child on a journey",
+    "meaning": "If you love your children, let them face challenges and see the world rather than overprotecting them."
+  },
+  {
+    "japanese": "捕らぬ狸の皮算用",
+    "romaji": "Toranu tanuki no kawazanyou",
+    "english": "Counting the skins of tanuki you haven't caught",
+    "meaning": "Don't count your chickens before they hatch; don't plan based on profits that aren't guaranteed yet."
+  },
+  {
+    "japanese": "猫に小判",
+    "romaji": "Neko ni koban",
+    "english": "Gold coins to a cat",
+    "meaning": "Giving something of high value to someone who cannot appreciate or understand its worth."
+  },
+  {
+    "japanese": "覆水盆に返らず",
+    "romaji": "Fukusui bon ni kaerazu",
+    "english": "Spilled water does not return to the tray",
+    "meaning": "It is no use crying over spilled milk; once something is done, it cannot be undone."
+  },
+  {
+    "japanese": "一期一会",
+    "romaji": "Ichigo ichie",
+    "english": "One time, one meeting",
+    "meaning": "Treasure every encounter, for it may never happen again; once-in-a-lifetime opportunity."
+  }
 ]
