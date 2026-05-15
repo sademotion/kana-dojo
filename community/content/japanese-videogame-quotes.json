@@ -77,13 +77,6 @@
     "character": "Giorno Giovanna"
   },
   {
-    "japanese": "世界を救うって、そういうことだろ？",
-    "romaji": "Sekai o sukuu tte, sou iu koto daro?",
-    "english": "Saving the world means doing this, right?",
-    "game": "Persona 5 Strikers",
-    "character": "Joker"
-  },
-  {
     "japanese": "なかなかやるな",
     "romaji": "Nakanaka yaru na",
     "english": "You're pretty good.",
@@ -147,28 +140,150 @@
     "character": "Rival characters"
   },
   {
-  "japanese": "勝つと思うな、思えば負けよ",
-  "romaji": "Katsu to omou na, omoeba makeyo",
-  "english": "If you only think of winning, you lose.",
-  "game": "Samurai game proverb line",
-  "character": "Musashi reference"
+    "japanese": "また会おう、相棒",
+    "romaji": "Mata aou, aibou",
+    "english": "See you again, partner.",
+    "game": "Metal Gear Solid 3: Snake Eater",
+    "character": "Big Boss / Snake"
   },
   {
-    "japanese": "風が、来る！",
-    "romaji": "Kaze ga, kuru!",
-    "english": "The wind is coming!",
-    "game": "The Legend of Zelda: Breath of the Wild (JP)",
-    "character": "Revali"
+    "japanese": "行くぞ！ここからが本当の戦いだ！",
+    "romaji": "Iku zo! Koko kara ga hontou no tatakai da!",
+    "english": "Let's go! This is where the real battle begins!",
+    "game": "Generic JRPG battle trope",
+    "character": "Hero archetype"
   },
   {
-    "japanese": "まだまだだね",
-    "romaji": "Mada mada da ne",
-    "english": "You still have lots more to work on.",
-    "game": "The Prince of Tennis: Sweat & Tears 2",
-    "character": "Ryoma Echizen"
+    "japanese": "まだ終わってない！ここからだ！",
+    "romaji": "Mada owatte nai! Koko kara da!",
+    "english": "It's not over! It starts now!",
+    "game": "Pokémon series",
+    "character": "Rival characters"
   },
   {
-    "_added_by": "bounty-bot",
-    "timestamp": "2026-04-27T01:35:11.532100"
-  }
+    "japanese": "一人じゃない、みんながいる！",
+    "romaji": "Hitori janai, minna ga iru!",
+    "english": "You're not alone, everyone is with you!",
+    "game": "JRPG trope",
+    "character": "Party leader"
+  },
+  {
+    "japanese": "俺が必ずお前を救ってみせる！",
+    "romaji": "Ore ga kanarazu omae o sukutte miseru!",
+    "english": "I’ll definitely save you!",
+    "game": "Re:ZERO -Starting Life in Another World",
+    "character": "Subaru Natsuki"
+  },
+  {
+    "japanese": "約束された勝利の剣",
+    "romaji": "Yakusoku sareta shouri no ken",
+    "english": "The Sword of Promised Victory.",
+    "game": "Fate/stay night [Realta Nua]",
+    "character": "Saber"
+  },
+  {
+    "japanese": "世界を救うって、そういうことだろ？",
+    "romaji": "Sekai o sukuu tte, sou iu koto daro?",
+    "english": "Saving the world means doing this, right?",
+    "game": "Persona 5 Strikers",
+    "character": "Joker"
+  },
+  {
+    "japanese": "次はもっと強くなる",
+    "romaji": "Tsugi wa motto tsuyoku naru",
+    "english": "Next time, I'll be stronger.",
+    "game": "Pokemon series",
+    "character": "Rival characters"
+  },
+  {
+    "japanese": "勝つと思うな、思えば負けよ",
+    "romaji": "Katsu to omou na, omoeba makeyo",
+    "english": "If you only think of winning, you lose.",
+    "game": "Samurai game proverb line",
+    "character": "Musashi reference"
+  },
+  {
+    "japanese": "この戦い、負けられない！",
+    "romaji": "Kono tatakai, makerarenai!",
+    "english": "I can't lose this fight!",
+    "game": "Fire Emblem series",
+    "character": "Various protagonists"
+  },
+  {
+    "japanese": "undefined",
+    "romaji": "undefined",
+    "english": "undefined",
+    "game": "Portal",
+    "character": "GLaDOS"
+  },
+  {
+    "japanese": "この戦い、負けられない！",
+    "romaji": "Kono tatakai, makerarenai!",
+    "english": "I can't lose this fight!",
+    "game": "Fire Emblem series",
+    "character": "Various protagonists"
+  },
+  {
+    "japanese": "希望は前に進むんだ！",
+    "romaji": "Kibou wa mae ni susumun da!",
+    "english": "Hope moves forward!",
+    "game": "Danganronpa series",
+    "character": "Makoto Naegi"
+  },
+  {
+    "japanese": "それもまた一興",
+    "romaji": "Sore mo mata ikkyo",
+    "english": "That too has its charm.",
+    "game": "Onimusha series",
+    "character": "Nobunaga Oda"
+  },
+  {
+    "japanese": "未来を変えるんだ！",
+    "romaji": "Mirai o kaerun da!",
+    "english": "We're going to change the future!",
+    "game": "Steins;Gate: My Darling's Embrace",
+    "character": "Rintaro Okabe"
+  },
+  {
+    "japanese": "生きるってのは、戦うってことだ",
+    "romaji": "Ikiru tte no wa, tatakau tte koto da",
+    "english": "To live is to fight.",
+    "game": "Yakuza: Like a Dragon",
+    "character": "Ichiban Kasuga"
+  },
+  {
+    "japanese": "迷えば、敗れる",
+    "romaji": "Mayoeba, yabureru",
+    "english": "Hesitation is defeat.",
+    "game": "Sekiro: Shadows Die Twice",
+    "character": "Isshin Ashina"
+  },
+  {
+    "japanese": "興味ないね",
+    "romaji": "Kyōmi nai ne",
+    "english": "I don't care.",
+    "game": "Final Fantasy VII",
+    "character": "Cloud Strife"
+  },
+  {
+    "japanese": "ここからが本番だ",
+    "romaji": "Koko kara ga honban da",
+    "english": "The real challenge starts now.",
+    "game": "Monster Hunter series",
+    "character": "Guild Handler lines"
+  },
+  {
+  "japanese": "立てよ、ド三流",
+  "romaji": "Tate yo, do sannyuu",
+  "english": "Get up, you third-rate warrior.",
+  "game": "Dragon Ball Z: Kakarot",
+  "character": "Vegeta"
+  },
+  {
+  "japanese": "行くぞ、みんな！",
+  "romaji": "Iku zo, minna!",
+  "english": "Let's go, everyone!",
+  "game": "Kingdom Hearts series (JP dub)",
+  "character": "Sora"
+}
 ]
